@@ -8,7 +8,7 @@ email: amongfriendsapp@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amongfriends.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
-logo: assets/images/large-logo.png
+logo: assets/images/icon.png
 
 languages: ["en"]
 ampdir: amp
