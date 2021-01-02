@@ -1,7 +1,5 @@
 app:
   screenshots: Screenshots
-  description: Description
-  featured: Featured in
 
 footer:
   copyright: ©2021 Bar Yaacovi. All rights reserved.

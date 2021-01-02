@@ -4,7 +4,7 @@
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
 title: AmongFriends
-email: amnongfriendsapp@gmail.com
+email: amongfriendsapp@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://amongfriends.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#efeeff'
