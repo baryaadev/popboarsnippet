@@ -1,5 +1,5 @@
 app:
-  screenshots: Screenshots
+  # screenshots: Screenshots
 
 footer:
   copyright: ©2021 Bar Yaacovi. All rights reserved.
