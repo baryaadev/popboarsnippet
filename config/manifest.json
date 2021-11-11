@@ -1,0 +1,11 @@
+{
+  "name": "AmongFriends",
+  "short_name": "AmongFriends",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Find friends to play with!",
+  "scope": "/",
+  "theme_color": "#efeeff",
+  "background_color": "#efeeff"
+}
